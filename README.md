@@ -1,6 +1,7 @@
 # Exquisite-corpse-SimonDB
 Ex 02Git/3.Git-Collage.md 
-another line in the readme
-extra line of txt
+
+
+added line in the readme
 
 Txt for commit and push from VS
